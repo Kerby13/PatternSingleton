@@ -1,0 +1,15 @@
+C:\Users\Никита\Desktop\Single\Single\bin\Debug\Single.exe.config
+C:\Users\Никита\Desktop\Single\Single\bin\Debug\Single.exe
+C:\Users\Никита\Desktop\Single\Single\bin\Debug\Single.pdb
+C:\Users\Никита\Desktop\Single\Single\obj\Debug\Single.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Desktop\Single\Single\obj\Debug\Single.exe
+C:\Users\Никита\Desktop\Single\Single\obj\Debug\Single.pdb
+E:\C#\Single\Single\bin\Debug\Single.exe.config
+E:\C#\Single\Single\obj\Debug\Single.exe
+E:\C#\Single\Single\obj\Debug\Single.pdb
+E:\C#\Single\Single\bin\Debug\Single.exe
+E:\C#\Single\Single\bin\Debug\Single.pdb
+E:\C#\Single\Single\obj\Debug\Single.csprojResolveAssemblyReference.cache
+F:\C#\Single\Single\bin\Debug\Single.exe.config
+F:\C#\Single\Single\obj\Debug\Single.exe
+F:\C#\Single\Single\obj\Debug\Single.pdb
